@@ -1,2 +1,2 @@
-# Mc-Donald
+# Mc-Donald nutrition analysis
 Mc Donald capstone
